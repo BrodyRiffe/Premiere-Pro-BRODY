@@ -1,2 +1,2 @@
-# Premiere Pro BRODY
- 
+Summary
+For my project, I looked at how behind-the-scenes choices in movies and TV shows affect how we feel. I used Premiere Pro to add pictures to show how things like camera angles, pacing, and sound impact the audience’s emotions. I explained how, for example, different camera shots can make an action scene feel exciting or how the speed of a scene can make us feel tense. By editing these examples, I explained how filmmakers use these tools to make us feel different emotions while watching a show or movie. 
